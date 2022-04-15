@@ -199,6 +199,8 @@ string getLastName() {
 
 int main() {
 
+	cout << "hello";
+
 	//students
 	int num;
 	
